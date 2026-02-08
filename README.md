@@ -7,6 +7,4 @@
 перемещать источник света и наблюдать динамическую отрисовку теней.
 ---
 
-https://github.com/user-attachments/assets/77a8ee57-dc4a-43f9-b86c-9174824d0e6d
-
-
+![2D Raycaster Demo](Raycaster_in_work.gif)
